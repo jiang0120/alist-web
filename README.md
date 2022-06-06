@@ -1,5 +1,4 @@
-A react template built with :
-- [vite](https://cn.vitejs.dev/)
-- [chakra-ui](https://chakra-ui.com/)
-- [react-router](https://reactrouter.com/web/)
-- [react-icons](https://react-icons.github.io/react-icons/)
+<a>1</a>
+<a>2</a>
+<a>3</a>
+<a></a>
